@@ -1,7 +1,7 @@
 ### Hi, I'm Andrei 👋
 
-Solutions Architect in Barcelona, working on **AI adoption and GenAI solution architecture**
-Before that: 15 years in embedded and automotive safety-critical systems (ADAS, AUTOSAR, E/E architecture) lived in 4 different countries.
+Solutions Architect in Barcelona, working on **AI adoption and GenAI solution architecture**.
+Before that: 15 years in embedded and automotive safety-critical systems (ADAS, AUTOSAR, E/E architecture), living and working in 4 countries.
 
 **What I'm building now**
 - 🎙️ **LinkedIn Signal** *(private, write-up coming)*: a personal GenAI pipeline that turns voice notes into posts in my own words, then measures which content reaches which audience.
